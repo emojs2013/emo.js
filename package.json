@@ -1,0 +1,26 @@
+{
+  "family": "emo",
+  "name": "animation",
+  "version": "1.0.0",
+  "description": "利用CSS实现源自Plist文件的动画。",
+  "homepage": "https://github.com/emojs2013/emo.js",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emojs2013/emo.js"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": ["animation"],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["animation.js"],
+    "alias": {
+      "jquery": "jquery/jquery/1.10.1/jquery",
+      "class": "arale/class/1.1.0/class"
+    },
+    "devAlias": {},
+    "engines": {}
+  }
+}
